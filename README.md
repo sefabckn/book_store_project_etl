@@ -1,4 +1,4 @@
-# Real Estate ETL Project
+# Book Store ETL Project
 
 ![ETL diagram](asset/ETL.jpeg)
 
@@ -8,7 +8,7 @@ A small ETL pipeline and scraper for real-estate listings, with a minimal demo a
 
 ## Project Overview
 
-This repository contains a lightweight pipeline that scrapes real-estate data, transforms and stores it locally, and exposes a simple app for exploration. It is intended as a small end-to-end example for collecting, processing and visualizing property listing data.
+This repository contains a lightweight pipeline that scrapes book store data, transforms and stores it locally, and exposes a simple app for exploration. It is intended as a small end-to-end example for collecting, processing and visualizing property listing data.
 
 ## Features
 
